@@ -1,11 +1,19 @@
 # ESWPSNN -- Electron Solar Wind--Plasma Sheet Neural Network
 Neural network model that predicts electron flux in the plasma sheet from solar wind inputs.
 
+
+
+
 This repository contains the source code and example usage for the model 
 that is described in the paper: \
 Swiger et al. (2022). Energetic Electron Flux Predictions in the 
 near-Earth Plasma Sheet from Solar Wind Driving. *Space Weather*, (**under 
 review**).
+
+This repository is also available on zenodo.org.
+
+[![DOI](https://zenodo.org/badge/489504778.svg)](https://zenodo.org/badge/latestdoi/489504778)
+
 
 All of the code is written in python; the conda package configuration file is 
 `swpsnn.yml`.
